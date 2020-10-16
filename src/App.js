@@ -59,13 +59,13 @@ var dataSource = {
       {
           data: [],
           backgroundColor: [
-              '#ffcd56',
-              '#ff6384',
-              '#36a2eb',
-              '#aa7b19',
-              '#fffb19',
-              '#bbab19',
-              '#dd6b19'
+                       '#ffcd56',
+                        '#ff6384',
+                        '#36a2eb',
+                        '#fd6b19',
+                        '#ff0000',
+                        '#800080',
+                        '#00FF00',
           ],
       }
   ],

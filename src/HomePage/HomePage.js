@@ -76,7 +76,7 @@ function HomePage() {
         
         <section>
             Always double check your budget plans!
-            <button type="button">Click Me! I do nothing!</button>
+            <button type="button">hello please hit my button</button>
         </section>
 
     </div>
