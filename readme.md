@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Personal Budget Application Assignment using React for ITIS 4166 (Network Based App Development)
+
 ## Available Scripts
 
 In the project directory, you can run:
